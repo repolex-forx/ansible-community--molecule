@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "molecule",
+  "versions": [
+    {
+      "commit": "da31a19eb0c2aa50faa7255a42ee9792bafa4361",
+      "tag": "v26.10.0",
+      "parsed_at": "2026-10-18T09:48:41.377149+00:00"
+    }
+  ]
+}
