@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/molecule/commit/da31a19eb0c2aa50faa7255a42ee9792bafa4361",
       "git:hexsha": "da31a19eb0c2aa50faa7255a42ee9792bafa4361",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v26.10.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v26.10.0",
+      "repolex:parsedAt": "2026-10-18T09:48:41.375599+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/molecule/commit/43d1c4f8cb3077dbee9989afe504a7bd7e16f7d5",
