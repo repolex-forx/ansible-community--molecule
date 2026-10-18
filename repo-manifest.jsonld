@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/molecule/commit/da31a19eb0c2aa50faa7255a42ee9792bafa4361",
       "git:hexsha": "da31a19eb0c2aa50faa7255a42ee9792bafa4361",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v26.10.0"
     },
     {
